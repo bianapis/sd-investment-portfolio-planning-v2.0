@@ -1,0 +1,28 @@
+{
+  "managedInvestmentPortfolioAgreementRetrieveActionTaskReference" : "MIPARATR725487",
+  "managedInvestmentPortfolioAgreementRetrieveActionTaskRecord" : {},
+  "managedInvestmentPortfolioAgreementInstanceReportRecord" : {
+    "managedInvestmentPortfolioAgreementInstanceReportType" : "managedInvestmentPortfolioAgreementInstanceReportType",
+    "managedInvestmentPortfolioAgreementInstanceReport" : {},
+    "managedInvestmentPortfolioAgreementInstanceReportData" : "managedInvestmentPortfolioAgreementInstanceReportData"
+  },
+  "managedInvestmentPortfolioAgreementRetrieveActionResponse" : "managedInvestmentPortfolioAgreementRetrieveActionResponse",
+  "managedInvestmentPortfolioAgreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "780495",
+    "investmentPortfolioAgreementJurisdiction" : "investmentPortfolioAgreementJurisdiction",
+    "investmentPortfolioAgreementType" : "investmentPortfolioAgreementType",
+    "investmentPortfolioAgreementValidFromToDate" : "09-22-2018",
+    "customerReference" : "732932",
+    "legalEntityReference" : "756640",
+    "partyRelationshipProcedureInstanceReference" : "752769",
+    "investmentPortfolioAgreementSignatoriesResponsibleParties" : "investmentPortfolioAgreementSignatoriesResponsibleParties",
+    "investmentPortfolioInstanceReference" : "761978",
+    "documentDirectoryEntryInstanceReference" : "724840",
+    "managedInvestmentPortfolioAgreement" : "managedInvestmentPortfolioAgreement"
+  },
+  "managedInvestmentPortfolioAgreementInstanceAnalysis" : {
+    "managedInvestmentPortfolioAgreementInstanceAnalysisReportType" : "managedInvestmentPortfolioAgreementInstanceAnalysisReportType",
+    "managedInvestmentPortfolioAgreementInstanceAnalysisReport" : {},
+    "managedInvestmentPortfolioAgreementInstanceAnalysisData" : "managedInvestmentPortfolioAgreementInstanceAnalysisData"
+  }
+}

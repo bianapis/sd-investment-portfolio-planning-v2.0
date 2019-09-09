@@ -1,0 +1,35 @@
+{
+  "investmentTermsInstanceReport" : {
+    "investmentTermsInstanceReport" : {},
+    "investmentTermsInstanceReportParameters" : "investmentTermsInstanceReportParameters",
+    "investmentTermsInstanceReportRecord" : {},
+    "investmentTermsInstanceReportType" : "investmentTermsInstanceReportType"
+  },
+  "investmentTermsInstanceRecord" : {
+    "investmentPortfolioAgreementTermType" : "investmentPortfolioAgreementTermType",
+    "investmentPortfolioAgreementTermDescription" : "investmentPortfolioAgreementTermDescription",
+    "investmentPortfolioAgreementTermConstraints" : "investmentPortfolioAgreementTermConstraints"
+  },
+  "investmentTermsInstanceAnalysis" : {
+    "investmentTermsInstanceAnalysisParameters" : "investmentTermsInstanceAnalysisParameters",
+    "investmentTermsInstanceAnalysisReportType" : "investmentTermsInstanceAnalysisReportType",
+    "investmentTermsInstanceAnalysisReport" : {},
+    "investmentTermsInstanceAnalysisRecord" : {}
+  },
+  "investmentTermsRetrieveActionResponse" : "investmentTermsRetrieveActionResponse",
+  "managedInvestmentPortfolioAgreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "710816",
+    "investmentPortfolioAgreementJurisdiction" : "investmentPortfolioAgreementJurisdiction",
+    "investmentPortfolioAgreementType" : "investmentPortfolioAgreementType",
+    "investmentPortfolioAgreementValidFromToDate" : "09-22-2018",
+    "customerReference" : "733622",
+    "legalEntityReference" : "715712",
+    "partyRelationshipProcedureInstanceReference" : "781551",
+    "investmentPortfolioAgreementSignatoriesResponsibleParties" : "investmentPortfolioAgreementSignatoriesResponsibleParties",
+    "investmentPortfolioInstanceReference" : "784148",
+    "documentDirectoryEntryInstanceReference" : "728407",
+    "managedInvestmentPortfolioAgreement" : "managedInvestmentPortfolioAgreement"
+  },
+  "investmentTermsRetrieveActionTaskReference" : "ITRATR757831",
+  "investmentTermsRetrieveActionTaskRecord" : {}
+}

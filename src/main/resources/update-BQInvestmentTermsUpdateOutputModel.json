@@ -1,0 +1,23 @@
+{
+  "investmentTermsInstanceRecord" : {
+    "investmentPortfolioAgreementTermType" : "investmentPortfolioAgreementTermType",
+    "investmentPortfolioAgreementTermDescription" : "investmentPortfolioAgreementTermDescription",
+    "investmentPortfolioAgreementTermConstraints" : "investmentPortfolioAgreementTermConstraints"
+  },
+  "updateResponseRecord" : {},
+  "investmentTermsUpdateActionTaskReference" : "ITUATR742826",
+  "investmentTermsUpdateActionTaskRecord" : {},
+  "managedInvestmentPortfolioAgreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "739358",
+    "investmentPortfolioAgreementJurisdiction" : "investmentPortfolioAgreementJurisdiction",
+    "investmentPortfolioAgreementType" : "investmentPortfolioAgreementType",
+    "investmentPortfolioAgreementValidFromToDate" : "09-22-2018",
+    "customerReference" : "798626",
+    "legalEntityReference" : "797758",
+    "partyRelationshipProcedureInstanceReference" : "709952",
+    "investmentPortfolioAgreementSignatoriesResponsibleParties" : "investmentPortfolioAgreementSignatoriesResponsibleParties",
+    "investmentPortfolioInstanceReference" : "738804",
+    "documentDirectoryEntryInstanceReference" : "753017",
+    "managedInvestmentPortfolioAgreement" : "managedInvestmentPortfolioAgreement"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "managedInvestmentPortfolioAgreementInstanceReference" : "MIPAIR704032",
+  "managedInvestmentPortfolioAgreementEvaluateActionReference" : "MIPAEAR779555",
+  "managedInvestmentPortfolioAgreementInstanceStatus" : "managedInvestmentPortfolioAgreementInstanceStatus",
+  "managedInvestmentPortfolioAgreementEvaluateActionRecord" : {},
+  "managedInvestmentPortfolioAgreementInstanceRecord" : {
+    "investmentPortfolioAgreementJurisdiction" : "investmentPortfolioAgreementJurisdiction",
+    "investmentPortfolioAgreementType" : "investmentPortfolioAgreementType",
+    "investmentPortfolioAgreementValidFromToDate" : "09-22-2018",
+    "investmentPortfolioAgreementSignatoriesResponsibleParties" : "investmentPortfolioAgreementSignatoriesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "775161",
+    "managedInvestmentPortfolioAgreement" : "managedInvestmentPortfolioAgreement"
+  }
+}

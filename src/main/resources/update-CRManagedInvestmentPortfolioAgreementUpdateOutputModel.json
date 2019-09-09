@@ -1,0 +1,18 @@
+{
+  "managedInvestmentPortfolioAgreementUpdateActionTaskReference" : "MIPAUATR793102",
+  "updateResponseRecord" : {},
+  "managedInvestmentPortfolioAgreementUpdateActionTaskRecord" : {},
+  "managedInvestmentPortfolioAgreementInstanceRecord" : {
+    "customerAgreementInstanceReference" : "713139",
+    "investmentPortfolioAgreementJurisdiction" : "investmentPortfolioAgreementJurisdiction",
+    "investmentPortfolioAgreementType" : "investmentPortfolioAgreementType",
+    "investmentPortfolioAgreementValidFromToDate" : "09-22-2018",
+    "customerReference" : "780687",
+    "legalEntityReference" : "787983",
+    "partyRelationshipProcedureInstanceReference" : "770841",
+    "investmentPortfolioAgreementSignatoriesResponsibleParties" : "investmentPortfolioAgreementSignatoriesResponsibleParties",
+    "investmentPortfolioInstanceReference" : "731502",
+    "documentDirectoryEntryInstanceReference" : "727290",
+    "managedInvestmentPortfolioAgreement" : "managedInvestmentPortfolioAgreement"
+  }
+}
